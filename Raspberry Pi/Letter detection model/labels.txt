@@ -1,0 +1,4 @@
+0 s letter
+1 u letter
+2 h letter
+3 none
